@@ -1,0 +1,261 @@
+body {
+  background-color: #0b101f;
+  width: 100%;
+}
+
+#firstbox {
+  background-color: #0b101f;
+
+}
+
+#one {
+
+  background-color: #0b101f;
+  padding-top: 5%;
+
+
+}
+
+.pink {
+  color: #F2509C;
+}
+
+#four {
+
+  color: #eeeeee;
+  font-family: 'Poppins', sans-serif;
+  font-size: large;
+  letter-spacing: 2px;
+
+
+}
+
+#five {
+
+  color: white;
+  font-size: 55px;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 2px;
+
+}
+
+#six {
+
+  color: #F24B99;
+
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+
+#two {
+  background-color: #732642;
+  display: inline;
+
+
+}
+
+#three {
+  position: relative;
+  right: 30%;
+  display: inline;
+
+}
+
+#blank1 {
+  background-color: #0b101f;
+  height: 5%;
+}
+
+#navbar {
+  display: inline-block;
+  text-align: left;
+  color: #ffffff;
+}
+
+.links {
+  width: 100%;
+  padding: 3%;
+}
+
+.links>a {
+
+  display: inline-block;
+  width: 15%;
+
+  padding: 0;
+  margin: 0;
+  color: #151E1E;
+  background-color: #0b101f;
+  text-decoration: none;
+}
+
+#about {
+
+  color: #ffffff;
+  font-size: large;
+  padding-top: 10%;
+}
+
+#about1 {
+
+  padding: 15%;
+  padding-top: 15%;
+  text-align: justify;
+}
+
+#about2 {
+  padding-top: 10%;
+
+}
+
+#aboutpic {
+  width: 80%;
+  height: auto;
+  position: relative;
+  bottom: 15%;
+  z-index: -1;
+
+}
+
+#aboutname {
+  position: relative;
+  left: 135%;
+  bottom: 45%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+
+#gal1 {
+  text-align: center;
+}
+
+#gal2 {
+
+  background-color: #0b101f;
+}
+
+#galimg {
+  height: 400px;
+  width: auto;
+}
+
+#galname {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  letter-spacing: 3px;
+
+}
+
+#desc {
+  font-family: 'Poppins', sans-serif;
+  font-size: larger;
+  padding: 35px;
+  color: #eeeeee87;
+}
+
+#contact {
+  background-color: #F24B99;
+}
+
+#contact {
+ 
+  text-align: center;
+
+}
+
+
+
+#cont2 {
+  background-color: #F24B99;
+ 
+  padding: 20px;
+  padding-left: 20px;
+  line-height: 3;
+}
+
+#contactinfo {
+  color:  #0b101f;
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+}
+
+#form {
+  opacity: .5;
+
+}
+
+span {
+  color: #ffffffb9;
+}
+
+a:link {
+  color: #2A323C;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #2A323C;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #fffbfb;
+  text-decoration: underline;
+}
+
+#condesc {
+  color: #ffffff8f;
+  font-size: 25px;;
+
+}
+
+#skills {
+
+  color: white;
+  background-color: #0b101f;
+
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 3px;
+}
+
+td {
+  color: #eeeeee;
+  padding-top: 5%;
+  padding-left: 5px;
+}
+.button-33 {
+  background-color: #0b101f;
+  border-radius: 100px;
+  box-shadow: #0b101f 0 -25px 18px -14px inset, #0b101f 0 1px 2px, #0b101f 0 2px 4px, #0b101f 0 4px 8px, #0b101f 0 8px 16px, #0b101f 0 16px 32px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-33:hover {
+  box-shadow:#0b101f 0 -25px 18px -14px inset,#0b101f 0 1px 2px 0 2px 4px,#0b101f 0 4px 8px,#0b101f 0 8px 16px,#0b101f 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+
+
+.reff>a:hover {
+  color: #fcfcfc;
+  text-decoration: underline;
+}
