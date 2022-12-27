@@ -11,7 +11,6 @@ function changewidth()
     if (screen.width < 991) {
         document.getElementById("two").style.display = "none";
         document.getElementById("three").style.display = "none";
-        
         document.getElementById("aboutname").style.left="0%";
         document.getElementById("aboutname").style.bottom="0%";
         document.getElementById("galimg").style.width=screen.width;
@@ -23,7 +22,6 @@ function changewidth()
     {
         document.getElementById("two").style.display = "inline";
         document.getElementById("three").style.display = "inline";
-   
         document.getElementById("aboutname").style.left="125%";
         document.getElementById("aboutname").style.bottom="30%";
         document.getElementById("galimg").style.width="auto";
